@@ -13,3 +13,4 @@ class AbsolutZero(Number):
 
 zero = AbsolutZero()
 print(zero)
+print ("Zaimportowano modul", __name__)
